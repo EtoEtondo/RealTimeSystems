@@ -1,0 +1,6 @@
+CFLAGS += -Wall -Wextra -Werror 
+
+
+fork:fork.c
+
+clean: $(RM) fork

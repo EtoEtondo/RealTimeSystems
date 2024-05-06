@@ -1,0 +1,7 @@
+CFLAGS += -Wall -Wextra -Werror 
+
+
+a4:a4.c
+
+clean
+  $(RM)  a4
